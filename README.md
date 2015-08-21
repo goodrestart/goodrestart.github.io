@@ -1,2 +1,2 @@
 # goodrestart.github.io
-This is also a test
+This is goodrestart project by Hadiyan Yusuf Kuntoro.
