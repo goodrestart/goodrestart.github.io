@@ -1,2 +1,2 @@
 # goodrestart.github.io
-This is Goodrestart project by Hadiyan Yusuf Kuntoro.
+Goodrestart is a personal project of Hadiyan Yusuf Kuntoro.
